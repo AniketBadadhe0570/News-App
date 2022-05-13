@@ -1,0 +1,82 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "ABP News Bureau",
+      "title": "PM Modi At LBSNAA: Take Reform, Perform, Transform To Next Level In 'Amritkaal' Of India's Independence",
+      "description": "PM Modi inaugurated the new sports complex and dedicated the revamped Happy Valley Complex to the Nation.",
+      "url": "https://news.abplive.com/news/india/pm-modi-at-lbsnaa-biggest-goal-of-21st-century-india-is-the-goal-of-becoming-self-reliant-and-modern-1520097",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/03/17/234ac981acdf397482726a5813a4ec72_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2022-03-17T07:06:29+00:00",
+      "content": "New Delhi: Prime Minister Narendra Modi on Thursday said that the biggest goal of 21st century India is the goal of becoming self-reliant and modern. \r\nPM Modi made the statement while addressing the… [+3853 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Tom Morris stood down by Fox Sports, Luke Beveridge and Western Bulldogs apologise for press conference tirade",
+      "description": "Fox Sports journalist Tom Morris is stood down over offensive videos leaked online, while the Bulldogs and Luke Beveridge issue apologies for Wednesday night's press conference.",
+      "url": "http://www.abc.net.au/news/2022-03-17/tom-morris-stood-down-bulldogs-luke-beveridge-apologises/100919158",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b3a0bdba4badeed8ccd240b79093da9a?impolicy=wcms_crop_resize&cropH=476&cropW=846&xPos=240&yPos=32&width=862&height=485",
+      "publishedAt": "2022-03-17T07:04:00Z",
+      "content": "Fox Sports journalist Tom Morris has been stood down after a recording of him making misogynistic comments about a female colleague was leaked online.\r\n<ul><li>Western Bulldogs coach Luke Beveridge s… [+2716 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Kish",
+      "title": "Nike seeks continued seal of records in sweeping gender discrimination lawsuit",
+      "description": "Nike on Wednesday asked a federal judge to keep some records under seal in a potential class-action lawsuit against the sportswear company.",
+      "url": "http://www.businessinsider.com/nike-seeks-continued-seal-records-gender-discrimination-lawsuit-2022-3",
+      "urlToImage": "https://i.insider.com/62323688dc43bd001894ac69?width=1200&format=jpeg",
+      "publishedAt": "2022-03-16T20:56:19Z",
+      "content": "On Wednesday, Nike asked a federal judge to keep parts of a sweeping sexual harassment and gender discrimination lawsuit under seal, setting up a potential legal battle over some of the lawsuit's mos… [+2871 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Matthew Kish",
+      "title": "Nike seeks continued seal of records in sweeping gender discrimination lawsuit",
+      "description": "Nike on Wednesday asked a federal judge to keep some records under seal in a potential class-action lawsuit against the sportswear company.",
+      "url": "http://uk.businessinsider.com/nike-seeks-continued-seal-records-gender-discrimination-lawsuit-2022-3",
+      "urlToImage": "https://i.insider.com/62323688dc43bd001894ac69?width=1200&format=jpeg",
+      "publishedAt": "2022-03-16T20:56:19Z",
+      "content": "On Wednesday, Nike asked a federal judge to keep parts of a sweeping sexual harassment and gender discrimination lawsuit under seal, setting up a potential legal battle over some of the lawsuit's mos… [+2871 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "USA TODAY Sports Brackets",
+      "description": "Create men’s and women’s tournament brackets and make your picks before the tournaments begin.",
+      "url": "https://brackets.usatoday.com",
+      "urlToImage": "https://brackets.usatoday.com/wp-content/uploads/sites/98/2020/03/cropped-favicon.png",
+      "publishedAt": "2022-03-14T05:57:38+00:00",
+      "content": "© Copyright USA TODAY Sports Brackets 2022"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Peter Kafka",
+      "title": "Will Apple or Google slow sports betting on your phone?",
+      "description": "Phone users are betting billions on sports. Will anything slow that down?",
+      "url": "https://www.vox.com/recode/22947732/phones-sports-betting-gambling-apple-google-march-madness",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vRlrdmNupdJzoM5R7C39jtet2aE=/0x0:5520x2890/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23303883/1150786897.jpg",
+      "publishedAt": "2022-03-13T11:30:00Z",
+      "content": "Remember when we decided that spending too much time on our phones was a bad thing? That immersing ourselves in our iPhones could be unhealthy, or even addictive?\r\nThat was a couple of years ago. So … [+8004 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
